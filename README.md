@@ -14,3 +14,7 @@ Introdução a lógica de programação com Scratch
 - [Cálculo Margem de Lucro](https://scratch.mit.edu/projects/884626987/)
 - [Conversor de Milhas em KM/h](https://scratch.mit.edu/projects/884618787/)
 - [Conversor de Libras em Kilo gramas](https://scratch.mit.edu/projects/884624772/)
+- [Regra de Três](https://scratch.mit.edu/projects/884624772/)
+- [Conversor de Temperaturas](https://scratch.mit.edu/projects/884857800/editor/)
+
+  
