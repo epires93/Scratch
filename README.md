@@ -19,4 +19,4 @@ Introdução a lógica de programação com Scratch
 - [Cálculo do valor de Serviço/Hora](https://scratch.mit.edu/projects/885213736/)
   
 
-![HORA DO CÓDIGO](https://studio.code.org/print_certificates/eyJuYW1lIjoiw4lyaWNhIGRhIFNpbHZhIFBpcmVzIiwiY291cnNlIjoiaG91cm9mY29kZSIsImRvbm9yIjoiTWljcm9zb2Z0In0)
+![HORA DO CÓDIGO](https://github.com/epires93/Scratch/blob/main/assets/icons/CERTIFICADO.jpg)https://github.com/epires93/Scratch/blob/main/assets/icons/CERTIFICADO.jpg)
