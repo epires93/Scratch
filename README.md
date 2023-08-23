@@ -18,3 +18,5 @@ Introdução a lógica de programação com Scratch
 - [Conversor de Temperaturas](https://scratch.mit.edu/projects/884857800/editor/)
 - [Cálculo do valor de Serviço/Hora](https://scratch.mit.edu/projects/885213736/)
   
+
+![HORA DO CÓDIGO](https://studio.code.org/print_certificates/eyJuYW1lIjoiw4lyaWNhIGRhIFNpbHZhIFBpcmVzIiwiY291cnNlIjoiaG91cm9mY29kZSIsImRvbm9yIjoiTWljcm9zb2Z0In0)
