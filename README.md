@@ -17,6 +17,7 @@ Introdução a lógica de programação com Scratch
 - [Regra de Três](https://scratch.mit.edu/projects/884624772/)
 - [Conversor de Temperaturas](https://scratch.mit.edu/projects/884857800/editor/)
 - [Cálculo do valor de Serviço/Hora](https://scratch.mit.edu/projects/885213736/)
+- [Etanol x Gasolina](https://scratch.mit.edu/projects/887245382/)
 - [Simulador AND](https://scratch.mit.edu/projects/888048264/)
 - [Simulador Or](https://scratch.mit.edu/projects/888058219/)
 - [Simulador NOT](https://scratch.mit.edu/projects/888058264/)
