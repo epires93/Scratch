@@ -21,6 +21,8 @@ Introdução a lógica de programação com Scratch
 - [Simulador AND](https://scratch.mit.edu/projects/888048264/)
 - [Simulador Or](https://scratch.mit.edu/projects/888058219/)
 - [Simulador NOT](https://scratch.mit.edu/projects/888058264/)
+- [Calculadora: Desconto Vale Transporte](https://scratch.mit.edu/projects/888436948/)
+  
 
    
 ## A Hora do Código
