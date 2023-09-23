@@ -22,6 +22,7 @@ Introdução a lógica de programação com Scratch
 - [Simulador Or](https://scratch.mit.edu/projects/888058219/)
 - [Simulador NOT](https://scratch.mit.edu/projects/888058264/)
 - [Calculadora: Desconto Vale Transporte](https://scratch.mit.edu/projects/888436948/)
+- [Space Invaders](https://scratch.mit.edu/projects/897288314/)
   
 
    
